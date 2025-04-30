@@ -13,13 +13,13 @@
 - 💻 Focused on AI + Cybersecurity + Neuroscience
 - 🧘‍♂️ Spiritual nerd who codes to awaken souls *and* systems
 - 🎧 Music junkie + digital vault architect
-- 🌱 Currently learning: Machine Learning, Git, Linux, and being iconic 😉
+- 🌱 Currently learning: Machine Learning, Linux, and being iconic 😉
 
 ---
 
 ### 🔧 Tech Stack
 
 ```bash
-Languages: Python • C++ • HTML/CSS/JS
+Languages: Python • Java • HTML/CSS
 Tools: Git • Linux • VS Code • Colab • Jupyter
 AI Stuff: Numpy • Pandas • Matplotlib • scikit-learn • Fast.ai
